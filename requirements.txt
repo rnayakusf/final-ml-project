@@ -1,0 +1,12 @@
+tenserflow
+keras
+pandas
+numpy
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+xgboost
+matplotlib
+opencv-python
+spotipy
