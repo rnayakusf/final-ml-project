@@ -8,5 +8,4 @@ opencv-contrib-python
 scikit-learn
 xgboost
 matplotlib
-opencv-python
 spotipy
