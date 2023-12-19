@@ -1,5 +1,7 @@
 # Song recommendations from facial recognition (TuneQuest)
 
+by @rnayakusf, @Hanag1234, and @par-Sodhi
+
 ## Dataset sources
 * [Smaller Spotify set with moods](https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods)
 * [Larger spotify set without moods](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset/data)
