@@ -25,7 +25,7 @@ def display_predicted_emotion(im, predicted_emotion, x, y):
 
 #This is loading the trained model 
 try:
-    json = open("model.json", "r")
+    json = open("emotion_model.json", "r")
     model_json = json.read()
     json.close()
     model = model_from_json(model_json)
